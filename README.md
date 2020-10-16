@@ -25,7 +25,7 @@
 <h2 align="center">Preview 💻📱</h2>
 
    <p align="center">
-      <img src="https://github.com/wandsony/nlw-03-starter/public/images/demos/Desktop/Home-Desktop.png" width="100%" alt="Happy Demo"/>
+      <img src="https://raw.githubusercontent.com/wandsony/nlw-03-starter/main/public/images/demos/Desktop/Home-Desktop.png" width="100%" alt="Happy Demo"/>
    </p>
 
 ---
