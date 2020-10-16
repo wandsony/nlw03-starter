@@ -1,0 +1,25 @@
+{
+  "name": "nlw-03-starter",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">\r       <img src=\"https://user-images.githubusercontent.com/59374587/95769432-3c361a00-0c8e-11eb-8ce7-9ee9a66f32af.png\" width=\"10%\" alt=\"Happy Logo\"/>\r </p>",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wandsony/nlw-03-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wandsony/nlw-03-starter/issues"
+  },
+  "homepage": "https://github.com/wandsony/nlw-03-starter#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.1",
+    "nodemon": "^2.0.5"
+  }
+}
