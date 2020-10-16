@@ -107,13 +107,13 @@
 
 
 
-   >This project was developed with ❤️ by **[@wandson Gomes](https://www.linkedin.com/in/wandsony/)**, with the instructor **[@MaykBrito](https://linkedin.com/in/maykbrito)**, during the **[Next Level Week](https://rocketseat.com.br/)** of **[Rocketseat](https://www.linkedin.com/school/rocketseat/about/)** 💜. <br> 
+   >This project was developed with ❤️ by **[@Wandson Gomes](https://www.linkedin.com/in/wandsony/)**, with the instructor **[@MaykBrito](https://linkedin.com/in/maykbrito)**, during the **[Next Level Week](https://rocketseat.com.br/)** of **[Rocketseat](https://www.linkedin.com/school/rocketseat/about/)** 💜. <br> 
    If it helped you, give it ⭐, it will help me too 😉 
 
 ---
 
    <div align="center">
 
-   [![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Sales-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wandsony/)](https://www.linkedin.com/in/wandsony/)
+   [![Linkedin Badge](https://img.shields.io/badge/-Wandson%20Gomes-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wandsony/)](https://www.linkedin.com/in/wandsony/)
 
    </div>
