@@ -18,7 +18,7 @@
    - ✅ "Looking at opportunities" 👀
    - ✅ "The Stack's Choice" 📌
    - ✅ "Up to two years in 2 months" 🔥
-   - 🔄 "The extra mile" 🚀
+   - ✅ "The extra mile" 🚀
 
 ---
 
@@ -83,7 +83,7 @@
    $ git clone https://github.com/wandsony/nlw-03-starter
 
    - Enter in directory:
-   $ cd Happy
+   $ cd nlw-03-starter
    ```
 
 ---
