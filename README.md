@@ -84,8 +84,17 @@
 
    - Enter in directory:
    $ cd nlw-03-starter
-   ```
+   
+   - For install dependencies:
+   $ npm install
 
+   - Execute application:
+   $ npm start
+
+   - Open your browser in:
+   http://localhost:5500/
+
+```
 ---
 
 <h2 align="center">How to Contribute 💪</h2>
